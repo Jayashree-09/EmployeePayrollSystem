@@ -1,13 +1,12 @@
-# Compiled files
+# Compiled Java files
 out/
-*.class
 
 # VS Code settings
 .vscode/
 
+# Logs
+*.log
+
 # OS files
 .DS_Store
 Thumbs.db
-
-# Log files
-*.log
